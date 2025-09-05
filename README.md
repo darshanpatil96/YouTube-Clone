@@ -35,29 +35,7 @@ CSS3 (modular stylesheets)
 │── thumbnails/          # Video thumbnails  
 │── youtube.html         # Main homepage clone  
 
-⚙️ Installation & Usage
 
-Clone this repository:
-
-git clone https://github.com/yourusername/youtube-clone.git
-
-
-Navigate into the project folder:
-
-cd youtube-clone
-
-
-Open youtube.html in your browser.
-
-📸 Screenshot
-
-(Add a screenshot of your project here – e.g. screenshot.png)
-
-📌 Future Improvements
-
-Add search bar functionality using JavaScript.
-
-Implement dark mode toggle.
 
 Fetch real video data with YouTube Data API.
 
