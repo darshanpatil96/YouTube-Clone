@@ -1,0 +1,43 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  /* This style below will be inherited */
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(248, 248, 248);
+}
+/* Dark Mode Base */
+.dark-mode {
+  background-color: #181818;
+  color: #ffffff;
+}
+
+/* Sidebar in Dark Mode */
+.dark-mode .sidebar {
+  background-color: #202020;
+}
+
+/* Video cards in Dark Mode */
+.dark-mode .video-preview {
+  background-color: #282828;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+/* Header in Dark Mode */
+.dark-mode .header {
+  background-color: #202020;
+}
+
+/* Search Bar in Dark Mode */
+.dark-mode .search-bar {
+  background-color: #121212;
+  color: white;
+  border: 1px solid #333;
+}
