@@ -35,12 +35,3 @@ CSS3 (modular stylesheets)
 │── thumbnails/          # Video thumbnails  
 │── youtube.html         # Main homepage clone  
 
-
-
-Fetch real video data with YouTube Data API.
-
-Add a video player page.
-
-📄 License
-
-This project is licensed under the MIT License – free to use and modify.
